@@ -1,0 +1,18 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  background-color: #282c34;
+}
+.App {
+  box-sizing: border-box;
+  padding: 0 30px;
+}
+p {
+  color: #FFFFFF;
+}
+p > span {
+  color: #FF0000;
+}
+.find {
+  margin-top: 30px;
+}
